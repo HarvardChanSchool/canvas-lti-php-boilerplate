@@ -1,0 +1,12 @@
+/* Put your CSS here, normalize.css is already included */
+
+.app-wrapper{
+	padding: .5em;
+}
+
+.page-title{
+	padding: .7em 0;
+	border: 1px solid #e2e2e2;
+	border-left: 0;
+	border-right: 0;
+}
